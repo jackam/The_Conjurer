@@ -1,0 +1,106 @@
+# World.txt
+# Description : The world layout for The Conjurer's multiverse
+
+-- Chapter 1: A World of Your Own
+[ ] 1. The Big Picture
+[ ] 2. Gods of Your World
+[ ] 3. Mapping Your Campaign
+[ ] 4. Settlements
+[ ] 5. Languages & Dialects
+[ ] 6. factions & Organizations
+[ ] 7. Magic in Your World
+[ ] 8. Creating a Campaign
+[ ] 9. Campagin Events
+[ ] 10. Play Style
+[ ] 11. Tiers of Play
+[ ] 12. Flavors of Fantasy
+
+-- Chapter 2: Creating a Multiverse
+[ ] 1. The Planes
+[ ] 2. Plannar Travel
+[ ] 3. Astral Plane
+[ ] 4. Ethereal Plane
+[ ] 5. Feywild
+[ ] 6. Shadowfell
+[ ] 7. Inner Planes
+[ ] 8. Outer Planes
+[ ] 9. Other Planes
+[ ] 10. Known Worlds of the Material Planes
+
+-- Chapter 3: Creating Adventure
+[ ] Elements of a Great Adventure
+[ ] Published Adventures
+[ ] Adventure Structure
+[ ] Adventure Types
+[ ] Complications
+[ ] Creating Encounters
+[ ] Random Encounters
+
+-- Chapter 4: Creating Nonplayer Characters
+[ ] Designing NPCs
+[ ] NPC Party Members
+[ ] Contacts
+[ ] Hierlings
+[ ] Extras
+[ ] Villians
+[ ] Villainous Class Options
+
+-- Chapter 5: Adventure Environments
+[ ] Dungeons
+[ ] Mapping a Dungeon
+[ ] Wilderness
+[ ] Mapping a Wilderness
+[ ] Wilderness Survival
+[ ] Settlements
+[ ] Mapping a Settlement
+[ ] Urban Encounters
+[ ] Unusual Environments
+[ ] Traps
+
+-- Chapter 6: Between Adventures
+[ ] Linking Adventures
+[ ] Campaign Tracking
+[ ] Recurring Expenses
+[ ] Downtown Activities
+
+-- Chapter 7: Tresure
+[ ] Types of Treasure
+[ ] Random Treasure
+[ ] Magic Items
+[ ] Sentient Magic Items
+[ ] Artifacts
+[ ] Other Rewards
+
+-- Chapter 8: Running the Game
+[ ] Table Rules
+[ ] The Role of Dice
+[ ] Using Ability Score
+[ ] Exploration
+[ ] Social Interaction
+[ ] Objects
+[ ] Combat
+[ ] Chases
+[ ] Siege equipment
+[ ] Diseases
+[ ] Poisons
+[ ] Madness
+[ ] Experience Points
+
+-- Chapter 9: Dungeon Master's Workshop
+[ ] Ability Options
+[ ] Adventuring Options
+[ ] Combat Options
+[ ] Creating a Monster
+[ ] Creating a Spell
+[ ] Creating a Magic Item
+[ ] Creating new Character Options
+
+-- Appendix A: Random Dungeons
+[ ] Starting Area
+[ ] Passages
+[ ] Doors
+[ ] Chambers
+[ ] Stairs
+[ ] Connecting Areas
+[ ] Stocking a Dungeon
+
