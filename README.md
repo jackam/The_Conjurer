@@ -6,5 +6,5 @@ Stones Of Bone: The beginning edition of a three part series.
 
 -- Plot
 Every 2000 years the Conjurer's bloodline appears to protect earth.
-Guided by ancestors, the Conjurer uses the Stones Of Bone to fight against
+Favored by a few of the Gods, the Conjurer uses the Stones Of Bone magic to fight against
 the forces that wish to enslave humanity.
