@@ -1,5 +1,5 @@
 # World.txt
-# Description : The world layout for The Conjurer's multiverse
+# Description : The Dungeon Master's guide for The Conjurer's Multiverse
 
 -- Chapter 1: A World of Your Own
 [ ] 1. The Big Picture
