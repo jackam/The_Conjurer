@@ -1,0 +1,11 @@
+# File         : Timeline.txt
+# Description  : Game development steps from start to finish 
+
+
+1. Create the world
+2. Create game mechanics 
+3. Simulate world with mechanics
+4. Create visual artwork
+5. Combine world with artwork
+6. Create the music
+7. Combine world with music

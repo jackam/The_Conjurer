@@ -1,5 +1,5 @@
-# World.txt
-# Description : The Dungeon Master's guide for The Conjurer's Multiverse
+# File        : DM_Guide.txt
+# Description : Dungeon Master's guide for The Conjurer Multiverse
 
 -- Chapter 1: A World of Your Own
 [ ] 1. The Big Picture
