@@ -112,10 +112,10 @@
 
 1. The Big Picture
 - Four Gods oversee the world:
-	. Ekkan : God of War & Chaos
+	. Ekanon    : God of War & Chaos
 	. Genthia  : Goddess of Magic & Knowledge
-	. Nerran : God of the Sea & Sky
-	. Naali : Goddess of Nature & Luck
+	. Nerran   : God of the Sea & Sky
+	. Naali    : Goddess of Nature & Luck
 - Two of the Gods are at War with one another.
 - One of the Gods want humanity to survive and flourish. One of Gods seek humanities 
 	descrution. Two of the Gods are aligned neutral and want no part in the battle between

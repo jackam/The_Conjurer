@@ -3,6 +3,7 @@
 
 
 1. Create the world
+	a. Write the lore
 2. Create game mechanics 
 3. Simulate world with mechanics
 4. Create visual artwork
