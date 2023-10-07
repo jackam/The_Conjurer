@@ -3,8 +3,9 @@
 
 
 **Stone & Bone: The beginning edition of a three part series.**
-
-
+       
+     
+    
 -- Plot
 
 Two Gods, Ekanon and Genthia, are at war. Magic rules the universe. Magic is everywhere, in everything, and is used by
