@@ -1,6 +1,5 @@
 # The Conjurer -- Stone & Bone
-## Developed by : Extra Scoop Games
-### Programmer : Jackie Tulip
+### Developed by Jackie Tulip @ Extra Scoop Games
 
 Stones & Bone: The beginning edition of a three part series.
 
