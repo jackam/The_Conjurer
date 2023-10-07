@@ -1,4 +1,4 @@
-# Game Title : The Conjurer -- Stone & Bone
+# The Conjurer -- Stone & Bone
 ## Developed by : Extra Scoop Games
 ### Programmer : Jackie Tulip
 
