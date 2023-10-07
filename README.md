@@ -1,11 +1,12 @@
 <h2> The Conjurer: Stone & Bone</h2>
+<br>
 <b>Developed by Extra Scoop Games</b><br>
 <b>Stone & Bone: The beginning of a three part series</b>
 <br>
 <br>
 <br>
  -- Plot
-
+<br>
 Two Gods, Ekanon and Genthia, are at war. Magic rules the universe. Magic is everywhere, in everything, 
 and is used by all. Humans obtain magic through stone. Creatures obtain magic through bone and must kill
 to get theirs. Bone magic is more powerful than stone magic. Powerful sorcerers rule towns and cities to
