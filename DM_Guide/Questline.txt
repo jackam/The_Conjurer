@@ -1,0 +1,13 @@
+File        : Questline.txt
+Description : The timeline of events for The Conjurer: Stone & Bone
+
+[1] -- 
+- The Conjurer walks into the small town of *Dennar.
+- Greeted by Jayna, a young sorcerer and protector of the town, the Conjurer's mark is recognized.
+- Jeyani tells the tale of the Conjurer and gives him magic stones her family
+	has been holding for centuries to aid his quest.
+	- Added: Stone spell - Totem of Fire (dot)
+	- Added: Stone spell - Totem of Ice (slow)
+- Quest #1: Obtain the bones of a summoner beneath the town to cast summon spells from bone magic.
+- Return to Jayna: Learn summon spell
+- Quest #2: 
