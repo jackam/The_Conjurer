@@ -1,6 +1,6 @@
-# Title       : The Conjurer: Stone & Bone
-# Company     : Extra Scoop Games
-# Programmer  : Jackie Tulip
+# Game Title : The Conjurer -- Stone & Bone
+## Developed by : Extra Scoop Games
+### Programmer : Jackie Tulip
 
 Stones & Bone: The beginning edition of a three part series.
 
